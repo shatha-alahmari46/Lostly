@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672147529170",
+    "project_id": "lostly-shatha-2026-c586e",
+    "storage_bucket": "lostly-shatha-2026-c586e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672147529170:android:eb26739daca68c30683c0b",
+        "android_client_info": {
+          "package_name": "com.example.my_profile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFE0bMelU6nOLidKFvGpMj3X5fpRbtcHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
